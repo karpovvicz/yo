@@ -31,7 +31,7 @@ PHP Basic Cheat Sheet
 PHP Basic Cheat Sheet
 1. Struktura pliku PHP
 <?php
-// Twój kod tutaj
+
 ?>
 2. Zmienne i typy danych
 $tekst = "Hello";
